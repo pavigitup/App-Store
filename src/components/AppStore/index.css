@@ -1,0 +1,23 @@
+.bg-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.search-img {
+  height: 20px;
+}
+.tab-list {
+  display: flex;
+}
+.input-search-con {
+  border: 1px solid #111111;
+  display: flex;
+  padding: 5px;
+  border-radius: 5px;
+}
+input {
+  border: none;
+}
